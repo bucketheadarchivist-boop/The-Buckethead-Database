@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bucketheaddatabase.com	TRUE	/	FALSE	1999999999	crumb	BchL5orq+9TrOWQ3ODFjZjg0YmM3M2MxN2E2Zjk2MzU4MTEwYTEx
+
